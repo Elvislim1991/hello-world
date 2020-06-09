@@ -1,2 +1,4 @@
 # hello-world
-Tutorial repository
+Tutorial Repository
+
+Hi, I'm Elvis. Going to be a data scientist.
